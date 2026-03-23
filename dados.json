@@ -1,0 +1,34 @@
+[
+    {
+        "pergunta": "Como prescrever Dipirona EV para febre?",
+        "medicamento": "Dipirona 500 mg/ml. Ampola com 2 ml",
+        "quantidade": "1 ampola",
+        "intervalo": "6/6h",
+        "administrar": "01 ampola",
+        "diluicao": "18ml de SF"
+    },
+    {
+        "pergunta": "Como prescrever Bromoprida EV para náusea?",
+        "medicamento": "Bromoprida 5 mg/ml. Ampola com 2 ml",
+        "quantidade": "1 ampola",
+        "intervalo": "8/8h",
+        "administrar": "2ml",
+        "diluicao": "18ml de AD"
+    },
+    {
+        "pergunta": "Como prescrever Ondansetrona EV?",
+        "medicamento": "Ondansetrona 2 mg/ml. Ampolas com 2 e de 4 ml",
+        "quantidade": "1 ampola",
+        "intervalo": "8/8h",
+        "administrar": "4ml",
+        "diluicao": "16ml de SF"
+    },
+    {
+        "pergunta": "Como prescrever Metoclopramida EV?",
+        "medicamento": "Metoclopramida 5 mg/ml. Ampola com 2 ml",
+        "quantidade": "1 ampola",
+        "intervalo": "8/8h",
+        "administrar": "2ml",
+        "diluicao": "18ml de SF"
+    }
+]
