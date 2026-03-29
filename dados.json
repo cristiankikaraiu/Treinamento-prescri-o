@@ -30,5 +30,45 @@
         "intervalo": "8/8h",
         "administrar": "2ml",
         "diluicao": "18ml de SF"
+    },
+    {
+        "pergunta": "Como prescrever Diclofenaco?",
+        "medicamento": "Diclofenaco 25 mg/ml. Ampola com 3 ml",
+        "quantidade": "1 ampola",
+        "intervalo": "24h",
+        "administrar": "01 ampola IM",
+        "diluicao": "Não se aplica (IM)"
+    },
+    {
+        "pergunta": "Como prescrever Cetoprofeno EV/pó e IM?",
+        "medicamento": "Cetoprofeno 50 mg/ml IM, ampola com 2 ml e Cetoprofeno 100 mg/pó EV.",
+        "quantidade": "1 ampola",
+        "intervalo": "8/8h",
+        "administrar": "01 ampola IM ou EV",
+        "diluicao": "EV diluir em 100-150 ml de SF ou Glicosado"
+    },
+    {
+        "pergunta": "Como prescrever Morfina EV?",
+        "medicamento": "Morfina 10mg/ml, ampola com 1 ml.",
+        "quantidade": "1 ampola",
+        "intervalo": "conforme resposta",
+        "administrar": "Administrar 2 a 5 ml da solução",
+        "diluicao": "Diluir em 9 ml de SF ou Glicosado"
+    },
+    {
+        "pergunta": "Como prescrever Tenoxicam?",
+        "medicamento": "Tenoxicam 40 mg/ml/pó, frasco com 2 ml.",
+        "quantidade": "1 frasco",
+        "intervalo": "24h",
+        "administrar": "Administrar 1 FA",
+        "diluicao": "Diluir em 100 a 250 ml de SF. IM não precisa diluir"
+    },
+    {
+        "pergunta": "Como prescrever Tramadol?",
+        "medicamento": "Tramadol 50 mg/ml, ampola com 1 e 2 ml.",
+        "quantidade": "1 Ampola",
+        "intervalo": "6/6h",
+        "administrar": "Administrar 1 ampola",
+        "diluicao": "Diluir em 100 a 250 ml de SF. IM não precisa diluir"
     }
 ]
